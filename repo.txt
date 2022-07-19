@@ -1,0 +1,19 @@
+Application & API Urls:
+========================================================================================================
+
+Front End:https://e-autction-app-online.azurewebsites.net/
+API Gateway:https://eauction-apimanagement-service.azure-api.net/e-auction
+Function API:https://func-hackfse-eauction.azurewebsites.net
+========================================================================================================
+
+Git Lab Repos:
+========================================================================================================
+
+e-auction-angular-frontend : https://git03.iiht.tech/karthikaruchsamy/e-auction-angular-frontend.git
+
+e-auction-aspnetcore-api-azure: https://git03.iiht.tech/karthikaruchsamy/e-auction-aspnetcore-api-azure.git
+
+e-auction-azure-func-api: https://git03.iiht.tech/karthikaruchsamy/e-auction-azure-func-api.git
+========================================================================================================
+
+
